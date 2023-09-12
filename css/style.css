@@ -63,16 +63,17 @@ body{
 
 /* MAIN */
 /* List bullets */
-h2{
+
+ul{
+    list-style: circle;
     margin-left: 50px;
     line-height: 50px
 }
 
-ul{
-    margin-left: 50px;
+.error {
     list-style-type: circle;
-    line-height: 50px
 }
+
 /* List bullets */
 
 /* Colored text */
