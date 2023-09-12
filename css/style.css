@@ -65,7 +65,6 @@ body{
 /* List bullets */
 h2{
     margin-left: 50px;
-    list-style-type: circle;
     line-height: 50px
 }
 
@@ -75,4 +74,62 @@ ul{
     line-height: 50px
 }
 /* List checks */
+
+/* Colored text */
+ .edit{
+    color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-top: 10px;
+    background-color: hsl(204deg 85.86% 61.18%) 
+ }
+
+ .goals{
+    color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-top: 10px;
+    background-color: hsl(262.11deg 67.86% 67.06%)
+ }
+
+ .rec {
+    color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-top: 10px;
+    background-color: hsl(165deg 42.2% 57.25%);
+ }
+
+ .mobile {
+    color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-top: 10px;
+    background-color: hsl(33.61deg 88.02% 57.45%);
+ }
+
+ .web {
+    color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-top: 10px;
+    background-color:hsl(328.21deg 60% 61.76%)
+ }
+
+ .sales {
+    color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-top: 10px;
+    background-color: hsl(69.2deg 68.2% 46.86%)
+ }
+
+/* Colored text */
+
 /* MAIN */
