@@ -9,12 +9,13 @@ body{
 }
 
 .container {
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
     margin-left: 10px;
-    margin-bottom: 70px;
-    margin-right: 50px
+    margin-bottom: 40px;
     background-color: aliceblue;
+    margin-right: 50px
+    
 }
 
 /* HEADER */
@@ -38,13 +39,16 @@ body{
 .container2{
    width: 80%;
    margin: 0 auto;
-   
+   background-color: aliceblue;
+   padding: 20px 20px;
 }
 
 .button1{
     color: aliceblue;
     padding: 8px 8px;
     border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 10px;
     background-color: hsl(204deg 85.86% 61.18%) 
 }
 
@@ -55,8 +59,20 @@ body{
     border-radius: 5px;
 }
 /* Buttons */
-
 /* HEADER */
 
 /* MAIN */
+/* List bullets */
+h2{
+    margin-left: 50px;
+    list-style-type: circle;
+    line-height: 50px
+}
+
+ul{
+    margin-left: 50px;
+    list-style-type: circle;
+    line-height: 50px
+}
+/* List checks */
 /* MAIN */
