@@ -4,3 +4,33 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: hsl(0deg 0% 100%);
+    padding: auto;
+    margin-left: 10px;
+}
+
+/* HEADER */
+
+/* Header Banner */
+
+.logo{
+  width: 50px;
+  vertical-align: middle;
+  margin-top: 5px;
+  margin-bottom: 3px;
+}
+
+.logo-text {
+    font-size: 40px;
+    vertical-align: middle ;
+}
+
+/* Header Banner */
+
