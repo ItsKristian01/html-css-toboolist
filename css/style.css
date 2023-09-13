@@ -70,8 +70,10 @@ hr {
 /* List bullets */
 
 ul{
+    list-style: none;
     margin-left: 50px;
     line-height: 50px
+   
 }
 
 .circle {
